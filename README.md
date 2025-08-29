@@ -2,7 +2,7 @@
 ```
 EXECUTION COMMAND : python3 detector_full_Peddireddy_Lakshmi_Tejaswini.py iscp_pii_dataset_-_Sheet1.csv
 ```
-Deployment Proposal for PII Detection Solution
+# Deployment Proposal for PII Detection Solution
 Overview
 
 The solution detects and redacts Personally Identifiable Information (PII) such as phone numbers, Aadhaar, passport, UPI IDs, names, emails, and addresses.
